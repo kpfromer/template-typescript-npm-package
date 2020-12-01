@@ -1,7 +1,5 @@
 # template-typescript-npm-package
 
-## Description
-
 A barebones file structure for creating a npm package in TypeScript.
 
 ## Includes
@@ -24,6 +22,6 @@ A barebones file structure for creating a npm package in TypeScript.
 - `npm run lint` runs `eslint`
 - `npm run format` runs `prettier`
 
-# License
+## License
 
 This project is licensed with the MIT license
