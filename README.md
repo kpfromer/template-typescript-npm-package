@@ -14,14 +14,15 @@ A barebones file structure for creating a npm package in TypeScript.
 - [prettier](https://github.com/prettier/prettier), [husky](https://github.com/typicode/husky),
   [lint-staged](https://github.com/okonet/lint-staged) for automatic formatting and linting
 
-# Scripts
+## Scripts
 
-- `start` for starting `src/index.ts` (might want to remove this and `ts-node` depending on package)
-- `test` for jest testing
-- `test:watch` for watching files using jest
-- `build` for building TypeScripts to `lib` folder
-- `lint` runs `eslint`
-- `format` runs `prettier`
+- `npm start` for starting `src/index.ts` (might want to remove this and `ts-node` depending on
+  package)
+- `npm run test` for jest testing
+- `npm run test:watch` for watching files using jest
+- `npm run build` for building TypeScripts to `lib` folder
+- `npm run lint` runs `eslint`
+- `npm run format` runs `prettier`
 
 # License
 
