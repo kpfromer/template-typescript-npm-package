@@ -2,6 +2,12 @@
 
 A barebones file structure for creating a npm package in TypeScript.
 
+### Other Templates
+
+- [TypeScript Barebones Project](https://github.com/kpfromer/template-typescript-barebones)
+- [TypeScript CLI](https://github.com/kpfromer/template-typescript-cli)
+- [TypeScript Mono Repo](https://github.com/kpfromer/template-typescript-mono-repo)
+
 ## Includes
 
 - [eslint](https://github.com/eslint/eslint)
